@@ -9,15 +9,15 @@ class CustompluginGrailsPlugin {
     ]
 
     // TODO Fill in these fields
-    def title = "Customplugin Plugin" // Headline display name of the plugin
-    def author = "Your name"
+    def title = "CelsiusFfFahrenheit" // Headline display name of the plugin
+    def author = "says rodriguez"
     def authorEmail = ""
     def description = '''\
 Brief summary/description of the plugin.
 '''
 
     // URL to the plugin's documentation
-    def documentation = "http://grails.org/plugin/customplugin"
+    def documentation = "http://grails.org/plugin/CelsiusFfFahrenheit"
 
     // Extra (optional) plugin metadata
 
